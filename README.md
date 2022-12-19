@@ -4,6 +4,5 @@
 현재 📱ios 개발을 하고 있고 🇰🇷대한민국 천안에 살고 있습니다.
 
 <h2> 기술스택 </h2>
-![Swift] (https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=docker&logocolor=ffffff)
-swift
 
+! [Swift] (https://img.shields.io/badge/-Swift-46a2f1?style=for-the-badge&logo=docker&logocolor=ffffff)
