@@ -5,4 +5,4 @@
 
 <h2> 기술스택 </h2>
 
-! [Swift] (https://img.shields.io/badge/-Swift-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+! [HTML5] (https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
