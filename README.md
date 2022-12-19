@@ -7,3 +7,5 @@
 <h2> 기술스택 </h2>
 
 <img src="https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=Git&logoColor=white">
+
