@@ -6,4 +6,4 @@
 <br />
 <h2> 기술스택 </h2>
 
-! [HTML5] (https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
