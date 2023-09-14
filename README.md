@@ -9,7 +9,7 @@
 <br />
 <h2> 기술스택 </h2>
 
-<img src="https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=Github&logoColor=white">
 
